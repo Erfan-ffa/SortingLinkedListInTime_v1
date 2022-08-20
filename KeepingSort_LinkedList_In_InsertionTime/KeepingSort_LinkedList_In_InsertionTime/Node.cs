@@ -104,11 +104,11 @@ namespace KeepingSort_LinkedList_In_InsertionTime
         {
             if (!IsNull())
             {
-                var te = head;
-                while (te != null)
+                var tempNode = head;
+                while (tempNode != null)
                 {
-                    Console.WriteLine(te.value);
-                    te = te.next;
+                    Console.WriteLine(tempNode.value);
+                    tempNode = tempNode.next;
                 }
             }
         }
