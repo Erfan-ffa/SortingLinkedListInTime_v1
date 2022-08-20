@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KeepingSort_LinkedList_In_InsertionTime/1.0.0": {
+        "runtime": {
+          "KeepingSort_LinkedList_In_InsertionTime.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KeepingSort_LinkedList_In_InsertionTime/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
